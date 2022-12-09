@@ -1,0 +1,1 @@
+# DELL-Inspiron-5590-5598-OpenCore-EFI
